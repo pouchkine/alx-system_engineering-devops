@@ -1,1 +1,1 @@
-tasks shell redirectiom
+# 0x02-shell_redirections
